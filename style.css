@@ -1,17 +1,11 @@
-
-body{
-background-color:snow
-}
-
- h1{
-color:darkgray
-font-family:size
-background:black
-}
-
-p{
-color: rebeccapurple
-font-family
-font: size 30px;
-background:
-}
+h1{
+    color:black ;
+    font-family:Arial, Helvetica, sans-serif ;
+    background:black ;
+    }
+    p{
+        color:red ;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        font: size 30px; ;
+        background:white ;
+        }
